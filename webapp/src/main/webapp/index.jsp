@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project Captain Isaac pa pa paaaaaaa oooo :) :) :) !!   </h1>
-<h2> Cloud Pro Training is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Captain Isaac on learning Devops and reading for the big $$$$$$$ and getting the devops job let's go </h1>
+<h1> Hello, Welcome to Simple DevOps Project created by Mavis!!   </h1>
+<h2> she is so excited to be a DevOps Engineer </h2>
+<h2> She is learning so hard!!</h2>
+<h1> Good job Mavis on learning Devops! </h1>
